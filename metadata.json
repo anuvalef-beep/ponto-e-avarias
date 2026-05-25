@@ -1,0 +1,6 @@
+{
+  "name": "Ponto e Avarias",
+  "description": "Controle de ponto de entrada, pausa, retorno, fim e folga com registro de prefixo e fotos de avarias do microônibus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

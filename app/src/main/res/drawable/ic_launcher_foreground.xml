@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered Bus White Silhouette representing the Minibus -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,26 C31.8,26 30,27.8 30,30 L30,70 C30,72.2 31.8,74 34,74 L36,74 L36,78 C36,79.7 37.3,81 39,81 C40.7,81 42,79.7 42,78 L42,74 L66,74 L66,78 C66,79.7 67.3,81 69,81 C70.7,81 72,79.7 72,78 L72,74 L74,74 C76.2,74 78,72.2 78,70 L78,30 C78,27.8 76.2,26 74,26 L34,26 Z M35,32 L73,32 L73,50 L35,50 L35,32 Z M40,64 C37.8,64 36,62.2 36,60 C36,57.8 37.8,56 40,56 C42.2,56 44,57.8 44,60 C44,62.2 42.2,64 40,64 Z M68,64 C65.8,64 64,62.2 64,60 C64,57.8 65.8,56 68,56 C70.2,56 72,57.8 72,60 C72,62.2 70.2,64 68,64 Z" />
+</vector>
